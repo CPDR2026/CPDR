@@ -1,4 +1,4 @@
-# 基于数据重建的深度学习投毒攻击
+# 基于数据重建的深度学习净标签投毒攻击
 
 1. 使用torchvision下载数据集到Dataset/，当前支持CIFAR10，FashionMNIST
 2. 训练特征提取器
